@@ -1,0 +1,2 @@
+# Violence-and-Weaponized-Activity-Detection-in-Surveillance-Videos-Using-EfficientNet-and-BiLSTM
+AI-based Smart Surveillance Violence Detection System that classifies uploaded videos as Normal, Violence, or Weaponized using EfficientNetB0 and deep learning. It provides test accuracy, confusion matrix, classification report, GradCAM heatmaps, confidence graphs, and XAI video outputs for transparent threat detection in smart city surveillance.
